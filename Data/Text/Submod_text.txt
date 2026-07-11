@@ -55,6 +55,7 @@ TEXT_ENCYCLOPEDIA_CLASS_ARMS_DEALER,Arms Dealer
 TEXT_ENCYCLOPEDIA_CLASS_BARONESS,Baroness
 TEXT_ENCYCLOPEDIA_CLASS_COUNSELOR,Counselor of the Empire
 TEXT_ENCYCLOPEDIA_CLASS_EXO,Class: ExO
+TEXT_ENCYCLOPEDIA_CLASS_GLORIOUS_LEADER,Glorious leader of the Empire
 TEXT_ENCYCLOPEDIA_CLASS_ISBDIRECTOR,Class: ISB Director 
 TEXT_ENCYCLOPEDIA_CLASS_PRIME_MINISTER,Prime Minister 
 TEXT_ENCYCLOPEDIA_CLASS_SECOND_LIEUTENANT,Second Lieutenant
@@ -111,9 +112,13 @@ TEXT_GROUND_BISCUIT_BARON,Biscuit Baron
 TEXT_H60_SQUADRON,H-60 Tempest Squadron
 TEXT_H60_SQUADRON_HALF,H-60 Tempest Squadron 1/2
 TEXT_H60_SQUADRON2,H-60 Tempest Squadron x2
+TEXT_HERO_AMEDDA,Mas Amedda
 TEXT_HERO_BENJO,Benjo
+TEXT_HERO_BORRUM,Hodnar Borrum
 TEXT_HERO_BRAGH,Bragh
 TEXT_HERO_BRELLAR,Alecs Brellar
+TEXT_HERO_BRENDOL,Brendol Hux
+TEXT_HERO_BRENNA,Brenna
 TEXT_HERO_CEX,Tyionsis Cex
 TEXT_HERO_DEMOS,Demos
 TEXT_HERO_DOMINA_TAGGE,Domina Tagge
@@ -133,6 +138,7 @@ TEXT_HERO_MALLAT,Zeven Mallat
 TEXT_HERO_MERILI,Merili
 TEXT_HERO_NAMMAN,Namman Cha
 TEXT_HERO_PRYDE,Enric Pryde
+TEXT_HERO_RANDD,Randd
 TEXT_HERO_RAX,Gallius Rax
 TEXT_HERO_RBANN,Rbann
 TEXT_HERO_RED_STAR,Iran Ryad
@@ -369,8 +375,8 @@ TEXT_STATBLOCK_THETA_ASSAULT_SHUTTLE_SQUADRON_DOUBLE,Squadron: 24x Theta Assault
 TEXT_STATBLOCK_THETA_ASSAULT_SHUTTLE_SQUADRON_HALF,Squadron: 6x Theta Assault Shuttles
 TEXT_STATBLOCK_THETA_ASSAULT_SHUTTLE_WEAP1,2x Fighter Laser Cannons: 8 / 3.0s / 1.0km
 TEXT_STATBLOCK_THETA_ASSAULT_SHUTTLE_WEAP2,1x Heavy Fighter Laser Cannon: 2 / 3.0s / 1.0km
-TEXT_STATBLOCK_THETA_ASSAULT_SHUTTLE_WEAP3,1x Fighter Concussion Missile (AF): 2 / 12.5s / 1.8km 
 TEXT_STATBLOCK_THETA_ASSAULT_SHUTTLE_WEAP3,1x Fighter Assault Concussion Missile: 1 / 37.5s / 1.8km
+TEXT_STATBLOCK_THETA_ASSAULT_SHUTTLE_WEAP3,1x Fighter Concussion Missile (AF): 2 / 12.5s / 1.8km 
 TEXT_STATBLOCK_TIE_AVENGER_ASSAULT_SQUADRON,Squadron: 12x Assault TIE Avenger
 TEXT_STATBLOCK_TIE_AVENGER_ASSAULT_SQUADRON_DOUBLE,Squadron: 24x Assault TIE Avenger
 TEXT_STATBLOCK_TIE_AVENGER_ASSAULT_SQUADRON_HALF,Squadron: 6x Assault TIE Avenger
@@ -521,6 +527,7 @@ TEXT_TOOLTIP_ACCLAMATOR_DESTROYER_WEAP4,2x Proton Torpedoes: 2 / 7.5s / 5.3km
 TEXT_TOOLTIP_ACCLAMATOR_I_SUPPORT,The end of the Clone Wars saw an explosion in demand for cargo ships and freighters, alongside a post-war surplus of previously mass-produced Acclamators that were no longer needed in peacetime. Thus the remaining military Acclamators were widely converted into cargo ships to meet this new demand, repurposing the vehicle bay into a large cargo bay.
 TEXT_TOOLTIP_ACCLAMATOR_I_SUPPORT_HULL,Hull: 1925 (Frigate)
 TEXT_TOOLTIP_ADELHARD,Grand Moff Ubrik Adelhard was a human male of the Galactic Empire who served as the Governor of the Anoat sector during the Galactic Civil War. Upon hearing of the death of Galactic Emperor Sheev Palpatine at the Battle of Endor, Adelhard went rogue, formed the Adelhard Coalition, and locked down his sector, initiating the Iron Blockade and isolating his citizens from the truth about the Emperor's death.
+TEXT_TOOLTIP_AMEDDA,Mas Amedda rose to the position of Vice Chair of the Republic Senate during Valorum's tenure. During the Naboo conflict, Amedda played all sides against each other, serving both Valorum and Palpatine. After Valorum was removed from office, Amedda swore allegiance to Palpatine. Amedda served as one of the Chancellor's closest advisors during the Separatist Crisis and following Clone Wars, being one of few who knew Palpatine's true identity as Darth Sidious. Amedda was rewarded for his loyalty to Palpatine, gaining the title of Grand Vizier. After the Emperor was killed at the Battle of Endor, Amedda served as proxy Emperor but held little real influence and was reduced to nothing more than a mouthpiece for the civilian administration of the Empire, being forced to serve as a figurehead for Fleet Admiral Gallius Rax.
 TEXT_TOOLTIP_ANOAT_PURGE_TROOPER_COMPANY,Company: 12x Anoat Purge Trooper
 TEXT_TOOLTIP_ANOAT_PURGETROOPER,Purge Troopers were a feared group of elite stormtroopers who enforced Grand Moff Ubrik Adelhard's reign over the Anoat Sector. They bare many similarities to the Phase 2 Dark Troopers, including phrik body armor and repulsorlift engines which give them excellent battlefield versatility and a distinctive frame. They are also equipped with massive assault cannons that could shred through infantry with scorching hot plasma. 
 TEXT_TOOLTIP_ARMORED_INTERCEPTOR_RESEARCH_ELROOD,Configure Elroods TIE Interceptors with additional hull plating, granting them improved survivability.
@@ -580,11 +587,14 @@ TEXT_TOOLTIP_BELBULLAB22,Fighter created by the Techno Union in preparation for 
 TEXT_TOOLTIP_BELBULLAB23,Variant Belbullab design that acts as a heavy assault craft. Armed with heavier weaponry, it is well suited to engage Republic fighters such as the ARC-170, but is more rarely sighted compared to the more standard fighter and bomber Belbullab starfighters.
 TEXT_TOOLTIP_BELBULLAB24,Derivative of the Belbullab design spun into an average-performance bomber. Used as a more individually powerful asset compared to swarms of lighter droid bombers, and remained more popular with holdouts and small cells afterwards due to the pilotable nature. At least one instance was taken by Imperial forces for study.
 TEXT_TOOLTIP_BENJO,Benjo, also known as ST-1-2 is one of the original members of Alpha Squadron. Benjo previously flew under the command of Villian Dance as his right panelman and second-in-command. Dance later defected to the Rebel Alliance, at which time Benjo unofficially took command of Alpha Squadron due to his rank. Despite the betrayal of his previous squadron leader, Benjo kept his call sign and still admires Dance for their piloting skill witnessed during their mission in the Horuz system.
+TEXT_TOOLTIP_BORRUM,Hodnar Borrum was an officer in both the Grand Army of the Galactic Republic and its successor, the Imperial Army of the Galactic Empire. At the end of the Clone Wars, Borrum led the charge against the last stand of the Jedi, personally marshaling clone troopers against a mountain fortress. Borrum became a general in the Imperial Military, and he served so long that he came to be known as "the Old Man" across the Empire. After the Battle of Endor, General Borrum was given a seat in the Shadow Council, Borrum later commanded the Imperial ground forces during the cataclysmic Battle of Jakku.
 TEXT_TOOLTIP_BRAGH,Bragh was a human male Purge Trooper commander born on Burnin Konn, one of the Mining Worlds of the Anoat sector. Following the destruction of the second Death Star, he fought for Grand Moff Ubrik Adelhard's coalition.
 TEXT_TOOLTIP_BRAGH_HEALTH,Health: 350
 TEXT_TOOLTIP_BRAGH_WEAP1,1X AI Blaster Cannon: 8 / 1.0S / 280M
 TEXT_TOOLTIP_BRAK_FIGHTERS_RESEARCH,Upgrade the aging fighters of the Brak Sector Fleet with newer, more powerful models procured from Sienar despite ongoing difficulties. Phases out Cloakshape, Warpod, TIE/ln and TIE/gt fighters, pushes V-Wings and ARC-170s into support roles, and adds various TIE Interceptor, TIE Advanced and TIE Avenger models to serve as top-end models. Due to the situation in the galaxy, this process will be expensive and time consuming, but Admiral Trier assures us that it will be worth it.
 TEXT_TOOLTIP_BRELLAR,Alecs Brellar served as captain of the Onslaught. He was sent to Bakura to bring the system under Imperial control, and later presented Wilek Nereus with the official badges of office as Bakura's governor, amid anti-Imperial protests.
+TEXT_TOOLTIP_BRENDOL,Prior to his service in the Empire, Brendol Hux had served as a junior officer in the Grand Army of the Republic, communicating tactics and strategy as determined by Jedi Generals. Four years before the Battle of Yavin, he was the commandant of the Arkanis Academy. After the Imperial defeat at Endor, he was trapped by the New Republic during the Siege of Arkanis. However, he escaped with the help of bounty hunter Mercurial Swift, on the orders of Fleet Admiral Gallius Rax, who appointed him a member of the new Shadow Council.
+TEXT_TOOLTIP_BRENNA,Brenna was a colonel in command of Brenna's Brigade in the military of the Galactic Empire. Throughout the Galactic Civil War, Brenna and her troops engaged in multiple skirmishes with the Rebel Alliance, frequently against Alliance Major Shin and his forces, including Yavin, Hoth, Tatooine and Endor. 
 TEXT_TOOLTIP_BTLA2_Y_WING,Early model of Y-wing tuned more towards a multirole fighter than assault bomber role. Reduced shield strength provides an increase in engine power and the weapon loadout is optimized for both its combat role and control by a single pilot. This variant lacks even the fixed-forward ions that later attempts at the concept will include.
 TEXT_TOOLTIP_BUILDLIMIT_A6,Build Limit: 2 | Total: ∞
 TEXT_TOOLTIP_BUILDLIMIT_BISCUIT_BARON,Build Limit: 1 | Total: ∞
@@ -658,6 +668,7 @@ TEXT_TOOLTIP_COMMAND_EMCHEN,Modular Task Force Combat Cruiser, Emchen
 TEXT_TOOLTIP_COMMAND_EVISCIRATOR,Modified Imperial-II Star Destroyer, Eviscerator
 TEXT_TOOLTIP_COMMAND_GURNST,Commands: Elite Mercenary Platoon Taskforce Bravo
 TEXT_TOOLTIP_COMMAND_HSSISSK_SQUADRON,Zssisk Strike Squadron
+TEXT_TOOLTIP_COMMAND_INFLICTOR,Imperial-I Star Destroyer, Inflictor
 TEXT_TOOLTIP_COMMAND_LORING,Imperial-II Star Destroyer, Sickle
 TEXT_TOOLTIP_COMMAND_MAHKKAR,Interceptor I-class Frigate
 TEXT_TOOLTIP_COMMAND_MAHLER,Imperial-II Star Destroyer, Mahler
@@ -722,6 +733,10 @@ TEXT_TOOLTIP_DREADNAUGHT_I_WEAP2,3x Medium Laser Cannons: 2 / 0.75s / 4.1km
 TEXT_TOOLTIP_DREADNAUGHT_I_WEAP3,2x Light Quad Laser Cannons: 2 / 0.5s / 3.6km
 TEXT_TOOLTIP_Dummy_Research_Raptor,Gives access to Raptor Troopers, an elite force loyal only to Warlord Zsinj.
 TEXT_TOOLTIP_Dummy_Tie_Raptor,Replaces the majority of Tie Interceptors with Tie Raptors
+TEXT_TOOLTIP_ESCORT_BRENNA1,1x - Stormtrooper Carabineer Squad
+TEXT_TOOLTIP_ESCORT_BRENNA2,1x - Stormtrooper Rifleman Squad
+TEXT_TOOLTIP_ESCORT_BRENNA3,1x Army Trooper Command Squad
+TEXT_TOOLTIP_ESCORT_BRENNA4,1x Scout Trooper Sniper Squad
 TEXT_TOOLTIP_ESCORT_GLOVOC,2x - Sith Advanced Trooper Squad
 TEXT_TOOLTIP_ESCORT_GURNST1,1x Elite Mercenary Platoon
 TEXT_TOOLTIP_ESCORT_HESS1,1x - ISB Infiltrator Sniper Squad
@@ -913,6 +928,7 @@ TEXT_TOOLTIP_PROVIDENCE_PIRATE_SQUADRON,Fighters: 1 / 3 | Bombers: 2 / 6
 TEXT_TOOLTIP_PRYDE,A native of the planet Alsakan, Pryde was born during the twilight of the Galactic Republic and was raised under the reign of the Galactic Empire. Pryde personally witnessed Darth Vader in action as a young fleet officer, and eventually became a captain of a battlegroup. After the Galactic Civil War, Pryde went into hiding with other former Imperial officers, nobles and technologists into the Unknown Regions to flee the New Republic, eventually joining a remnant led by Grand Admiral Rae Sloane which evolved into the First Order. After Kylo Ren's takeover he was promoted to the rank of Allegiant General.
 TEXT_TOOLTIP_PRYDE_CSA,A native of the planet Alsakan, Pryde was born during the twilight of the Galactic Republic and was raised under the reign of the Galactic Empire. Pryde personally witnessed Darth Vader in action as a young fleet officer, and eventually became a captain of a battlegroup. After the Galactic Civil War, Pryde went into hiding with other former Imperial officers, nobles and technologists into the Unknown Regions to flee the New Republic, eventually joining a remnant led by Grand Admiral Rae Sloane that sought to rebuild the Empire. Pryde eventually became a High Colonel in the remnant, which maintained a covert but close relationship with the Corporate Sector Authority, who in turn provided them with secret funding.
 TEXT_TOOLTIP_PRYDE_YOUNG,A native of the planet Alsakan, Pryde was born during the twilight of the Galactic Republic and was raised under the reign of the Galactic Empire. Pryde personally witnessed Darth Vader in action as a young fleet officer, and eventually became a captain of a battlegroup. After the Galactic Civil War, Pryde went into hiding with other former Imperial officers, nobles and technologists into the Unknown Regions to flee the New Republic, eventually joining a remnant led by Grand Admiral Rae Sloane that sought to rebuild the Empire.
+TEXT_TOOLTIP_RANDD,Randd was appointed leader of the Imperial Navy, during the last days of the Empire, being considered one of the most capable surviving commanders. He commanded the last battle over Jakku aboard the Executor Ravager, but fled the ship before it was dragged to the surface, by the StarHawk Concord, and destroyed.
 TEXT_TOOLTIP_RAX,Gallius Rax was the Counselor to the Empire during the days following the Battle of Endor. Mentored by Emperor Palpatine, Rax ascended through the ranks of the Imperial Navy, gaining command of the Executor-class Star Dreadnought Ravager. However, his true purpose as the Emperor's protégé was to ensure the success of the Contingency, a clandestine directive to destroy the Empire in the event of Sidious' death.
 TEXT_TOOLTIP_RBANN,Rbann was a Kubaz Imperial spy who worked directly for Blackhole, the shadowy Director of Imperial Intelligence. In 1 ABY, Blackhole dispatched Rbann to the "Gambler's World" of Vorzyd V, ordering the Kubaz to track prominent Rebel leaders Luke Skywalker and Leia Organa, who Blackhole had learned had been sent to Vorzyd V to disrupt Imperial operations there. Rbann quickly managed to track them to the Casino Royale in the capital city of Efavan, and his stormtroopers overpowered the Rebels and imprisoned them aboard Rbann's ship.
 TEXT_TOOLTIP_RED_POLICE,An infamous law enforcement agency established on the planet Prakith under the auspices of Moff Foga Brill. The Red Police were feared as the paramilitary instruments of Brill's reign, and suspected of conducting mass executions of vagrants, dissidents and other undesirables. Like much of Moff Brill's private fiefdom, the Red Police are ostentatious, imposing and flaunting expensive gear, only to mask deep-set rot and brittleness.

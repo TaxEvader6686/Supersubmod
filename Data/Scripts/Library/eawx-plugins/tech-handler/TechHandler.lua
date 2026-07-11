@@ -32,15 +32,15 @@ function TechHandler:new(galactic_conquest, human_player, planets)
 		"NCMP1_RESEARCH",
 		"Dummy_NewClass",
 		{"Rebel"},
-		{"Sacheen","Hajen","Corona","Belarus","REC_HQ"},
-		{"Nebulon_B_Frigate","Nebulon_B_Tender"}
+		{"Sacheen","Hajen","Corona","Belarus", "Defender-Class_Cruiser", "REC_HQ"},
+		{"Nebulon_B_Frigate","Nebulon_B_Tender", "MC30C", "MC30A"}
 		)
 
 	self.NCMP2Research = GenericResearch(self.galactic_conquest,
 		"NCMP2_RESEARCH",
 		"Dummy_NewClass_PhaseTwo",
 		{"Rebel"},
-		{"Agave_Corvette","Warrior_Gunship","Majestic","Defender_Carrier","Nebula_Star_Destroyer","Endurance_Fleet_Carrier","SovvDaunt2VP","Bell_Endurance_Dummy"},
+		{"Agave_Corvette","Warrior_Gunship","Majestic","Defender_Carrier","Nebula_Star_Destroyer","Endurance_Fleet_Carrier", "SovvDaunt2VP","Bell_Endurance_Dummy"},
 		{"CR90","DP20","Quasar","Liberator_Cruiser"},
 		nil,nil,
 		{"NCMP2_HEROES"}

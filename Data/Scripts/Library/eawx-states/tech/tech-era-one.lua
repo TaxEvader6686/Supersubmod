@@ -16,7 +16,8 @@ return {
                 "New_Republic_Defense_Trooper_Company",
                 "V_Wing_Airspeeder_Company",
                 "Jedi_Temple",
-                "New_Republic_Jedi_Knight_Company"
+                "New_Republic_Jedi_Knight_Company",
+				"Defender-Class_Cruiser"
             }, false)
             
             UnitUtil.SetLockList("EMPIRE", {

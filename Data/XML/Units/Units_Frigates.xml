@@ -5929,7 +5929,7 @@
 	<SpaceUnit Name="NR_Victory_I_Star_Destroyer">
 		<Variant_Of_Existing_Type>Template_Victory_I_Star_Destroyer</Variant_Of_Existing_Type>
 		<Affiliation>Rebel</Affiliation>
-		<Tech_Level>0</Tech_Level>
+		<Tech_Level>99</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 
@@ -8213,9 +8213,9 @@
 		<Death_Clone>Damage_Normal, Calamari_Cruiser_Death_Clone</Death_Clone>
 
 		<Affiliation>Rebel</Affiliation>
-		<Build_Initially_Locked>No</Build_Initially_Locked>
-		<Build_Can_Be_Unlocked_By_Slicer>Yes</Build_Can_Be_Unlocked_By_Slicer>
-		<Slice_Cost_Credits>7000</Slice_Cost_Credits>
+		<Build_Initially_Locked>Yes</Build_Initially_Locked>
+		<Build_Can_Be_Unlocked_By_Slicer>No</Build_Can_Be_Unlocked_By_Slicer>
+		<Slice_Cost_Credits>0</Slice_Cost_Credits>
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
@@ -8243,7 +8243,6 @@
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
 		<Death_Explosions>Large_Explosion_Space</Death_Explosions>
 		<Asteroid_Damage_Hit_Particles>Large_Damage_Space</Asteroid_Damage_Hit_Particles>
-		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
 			
 
 		<Space_FOW_Reveal_Range>9991200.0</Space_FOW_Reveal_Range>

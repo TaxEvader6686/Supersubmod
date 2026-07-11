@@ -24,7 +24,7 @@ return {
 		}
 	},
 	["EMPIRE"] = {
-		["CORUSCANT"] = {"Sloane_Vigilence", "Rax_Ravager", "Versio_Eviscirator", "Inferno_Corvus", "Pryde_ISD", "Hess_Team", "Pryde_Resurgent", },
+		["CORUSCANT"] = {"Sloane_Vigilence", "Rax_Ravager", "Versio_Eviscirator", "Inferno_Corvus", "Pryde_ISD", "Hess_Team", "Pryde_Resurgent", "Brenna_Team", "Hux_Team", "Randd_Inflictor", "Borrum_AT_AT_Team", "Amedda_Team",},
 	},
 	["GREATER_MALDROOD"] = {
 		["CENTARES"]  = {"Treuten_13X", "Therbon_Allegiance", "Khorak_Team", "Varn_Team"},

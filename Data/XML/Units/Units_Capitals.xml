@@ -1718,7 +1718,7 @@
 
 	<SpaceUnit Name="NR_Imperial_I_Star_Destroyer">
 		<Variant_Of_Existing_Type>Imperial_I_Star_Destroyer</Variant_Of_Existing_Type>
-		<Tech_Level>0</Tech_Level>
+		<Tech_Level>99</Tech_Level>
 		<Affiliation>Rebel</Affiliation>
 		<Lua_Script>GenericGameObject</Lua_Script>
 
@@ -7130,7 +7130,7 @@
 
 		<Space_Model_Name>MANDATORIII.ALO</Space_Model_Name>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
-		<Scale_Factor>0.3333</Scale_Factor>
+		<Scale_Factor>0.5</Scale_Factor>
 		<Select_Box_Scale>2800</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Size_Value>360</Size_Value>
@@ -7360,7 +7360,7 @@
 
 		<Space_Model_Name>MandatorIII_PA.ALO</Space_Model_Name>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
-		<Scale_Factor>0.3333</Scale_Factor>
+		<Scale_Factor>0.5</Scale_Factor>
 		<Select_Box_Scale>2800</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Size_Value>360</Size_Value>
@@ -7588,7 +7588,7 @@
 
 		<Space_Model_Name>Aramadia-class_star_dreadnought.alo</Space_Model_Name>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
-		<Scale_Factor>0.3333</Scale_Factor>
+		<Scale_Factor>0.5</Scale_Factor>
 		<Select_Box_Scale>2800</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Size_Value>360</Size_Value>
@@ -7927,7 +7927,7 @@
 
 		<Space_Model_Name>EV_Generic_Vengeance.ALO</Space_Model_Name>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
-		<Scale_Factor>0.3333</Scale_Factor>
+		<Scale_Factor>0.5</Scale_Factor>
 		<Select_Box_Scale>2800</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Size_Value>360</Size_Value>
@@ -8461,7 +8461,7 @@
 
 		<Space_Model_Name>EV_Executor.ALO</Space_Model_Name>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
-		<Scale_Factor>0.3333</Scale_Factor>
+		<Scale_Factor>0.5</Scale_Factor>
 		<Select_Box_Scale>100</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Size_Value>360</Size_Value>
@@ -8796,7 +8796,7 @@
 
 		<Space_Model_Name>Eclipse-class_star_dreadnought.ALO</Space_Model_Name>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
-		<Scale_Factor>0.3333</Scale_Factor>
+		<Scale_Factor>0.5</Scale_Factor>
 		<Select_Box_Scale>800</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Size_Value>360</Size_Value>
@@ -9067,7 +9067,7 @@
 
 		<Space_Model_Name>mc_viscount.ALO</Space_Model_Name>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
-		<Scale_Factor>0.3333</Scale_Factor>
+		<Scale_Factor>0.5</Scale_Factor>
 		<Select_Box_Scale>2800</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Size_Value>360</Size_Value>
@@ -9291,7 +9291,7 @@
 
 		<Space_Model_Name>Assertor.ALO</Space_Model_Name>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
-		<Scale_Factor>0.3333</Scale_Factor>
+		<Scale_Factor>0.5</Scale_Factor>
 		<Select_Box_Scale>2800</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Size_Value>360</Size_Value>
